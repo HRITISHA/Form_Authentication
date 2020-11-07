@@ -1,5 +1,5 @@
 # Form_Authentication
-- #### This is my Lab Assignment for the course Information Security Analysis and Audit :computer:
+
 - ##### FORM AUTHENICATION :memo:
 - ##### aes-128-ccm Encryption 
 - ##### Node :heavy_check_mark:
